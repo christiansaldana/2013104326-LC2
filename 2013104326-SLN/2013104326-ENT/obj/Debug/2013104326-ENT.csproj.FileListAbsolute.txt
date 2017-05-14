@@ -1,4 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-ENT\bin\Debug\2013104326-ENT.dll
-C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-ENT\bin\Debug\2013104326-ENT.pdb
-C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-ENT\obj\Debug\2013104326-ENT.dll
-C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-ENT\obj\Debug\2013104326-ENT.pdb
