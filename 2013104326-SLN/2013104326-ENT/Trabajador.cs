@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    public class Class1
+    class Trabajador
     {
     }
 }
