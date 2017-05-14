@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class Plan
+    public class Plan
     {
+        public int PlanId { get; set; }
+
     }
 }

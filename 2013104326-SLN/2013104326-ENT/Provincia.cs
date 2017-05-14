@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class Provincia
+    public class Provincia
     {
+        public int ProvinciaId { get; set; }
+
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-CON\bin\Debug\2013104326-CON.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-CON\bin\Debug\2013104326-CON.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-CON\bin\Debug\2013104326-CON.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-CON\obj\Debug\2013104326-CON.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\2013104326-LC2\2013104326-SLN\2013104326-CON\obj\Debug\2013104326-CON.pdb

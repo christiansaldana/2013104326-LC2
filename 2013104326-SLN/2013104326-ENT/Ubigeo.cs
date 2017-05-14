@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class Ubigeo
+    public class Ubigeo
     {
+        public int UbigeoId { get; set; }
+
     }
 }

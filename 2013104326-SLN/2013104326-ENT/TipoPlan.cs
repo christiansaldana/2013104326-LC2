@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class TipoPlan
+    public class TipoPlan
     {
+        public int TipoPlanId { get; set; }
+
     }
 }

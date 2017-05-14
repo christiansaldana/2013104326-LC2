@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class Departamento
+    public class Departamento
     {
+        public int DepartamentoId { get; set; }
+
     }
 }

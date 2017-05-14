@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class Distrito
+    public class Distrito
     {
+        public int DistritoId { get; set; }
+
     }
 }

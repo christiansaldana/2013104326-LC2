@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class AdministradorEquipo
+    public class AdministradorEquipo
     {
+        public int AdministradorEquipoId { get; set; }
+
     }
 }

@@ -8,5 +8,7 @@ namespace _2013104326_ENT
 {
     public class Evaluacion
     {
+        public int EvaluacionId { get; set; }
+
     }
 }

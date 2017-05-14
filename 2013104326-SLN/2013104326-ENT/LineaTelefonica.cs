@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013104326_ENT
 {
-    class LineaTelefonica
+    public class LineaTelefonica
     {
+        public int LineaTelefonicaId { get; set; }
+
     }
 }
