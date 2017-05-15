@@ -47,6 +47,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntityTypeConfigurations\AdministradorEquipoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\AdministradorLineaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\CentroAtencionConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ClienteConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ContratoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\DepartamentoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\DireccionConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\DistritoConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\EquipoCelularConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\EstadoEvaluacionConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\EvaluacionConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\LineaTelefonicaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\PlanConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\ProvinciaConfiguration.cs" />
+    <Compile Include="EntityTypeConfigurations\TipoEvaluacionConfiguration.cs" />
     <Compile Include="Migrations\201705142135246_InitialModel.cs" />
     <Compile Include="Migrations\201705142135246_InitialModel.Designer.cs">
       <DependentUpon>201705142135246_InitialModel.cs</DependentUpon>
@@ -78,7 +93,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="EntityTypeConfigurations\" />
     <Folder Include="Repositoories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
