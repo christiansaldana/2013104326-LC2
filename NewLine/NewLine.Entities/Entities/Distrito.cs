@@ -9,6 +9,11 @@ namespace NewLine.Entities
     public class Distrito
     {
         public int DistritoId { get; set; }
+        public Provincia Provincia { get; set; }
 
+        public Distrito()
+        {
+
+        }
     }
 }

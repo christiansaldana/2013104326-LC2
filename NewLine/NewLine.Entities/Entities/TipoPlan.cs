@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace NewLine.Entities
 {
-    public class CentroAtencion
+    public class TipoPlan
     {
-        public int CentroAtencionId { get; set; }
+        public int TipoPlanId { get; set; }
+        public Plan Plan { get; set; }
+
+        public TipoPlan()
+        {
+
+        }
 
     }
 }

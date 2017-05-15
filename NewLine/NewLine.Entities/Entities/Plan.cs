@@ -10,5 +10,12 @@ namespace NewLine.Entities
     {
         public int PlanId { get; set; }
 
+        public List<TipoPlan> TipoPlans { get; set; }
+
+        public Plan()
+        {
+            TipoPlans = new List<TipoPlan>();
+        }
+
     }
 }

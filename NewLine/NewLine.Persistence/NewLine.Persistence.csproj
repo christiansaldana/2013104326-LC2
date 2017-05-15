@@ -77,5 +77,9 @@
       <DependentUpon>201705142202030_AllClass.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EntityTypeConfigurations\" />
+    <Folder Include="Repositoories\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

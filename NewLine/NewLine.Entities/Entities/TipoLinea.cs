@@ -9,6 +9,11 @@ namespace NewLine.Entities
     public class TipoLinea
     {
         public int TipoLineaId { get; set; }
+        public LineaTelefonica LineaTelefonica { get; set; }
 
+        public TipoLinea()
+        {
+
+        }
     }
 }

@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace NewLine.Entities
 {
-    public class Venta
+    public class TipoPago
     {
-        public int VentaId { get; set; }
+        public int TipoPagoId { get; set; }
+        public Venta Venta { get; set; }
 
+        public TipoPago()
+        {
+
+        }
     }
 }

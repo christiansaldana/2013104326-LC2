@@ -9,6 +9,12 @@ namespace NewLine.Entities
     public class TipoEvaluacion
     {
         public int TipoEvaluacionId { get; set; }
+        public Evaluacion Evaluacion { get; set; }
+
+        public TipoEvaluacion()
+        {
+
+        }
 
     }
 }

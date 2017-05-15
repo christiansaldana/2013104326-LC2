@@ -9,6 +9,11 @@ namespace NewLine.Entities
     public class Trabajador
     {
         public int TrabajadorId { get; set; }
+        public List<TipoTrabajador> TipoTrabajadors { get; set; }
 
+        public Trabajador()
+        {
+            TipoTrabajadors = new List<TipoTrabajador>();
+        }
     }
 }

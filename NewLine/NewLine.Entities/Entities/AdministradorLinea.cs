@@ -9,6 +9,11 @@ namespace NewLine.Entities
     public class AdministradorLinea
     {
         public int AdministradorLineaId { get; set; }
+        public List<LineaTelefonica> LineaTelefonicas { get; set; }
 
+        public AdministradorLinea()
+        {
+            LineaTelefonicas = new List<LineaTelefonica>();
+        }
     }
 }
